@@ -1,4 +1,4 @@
-package com.springboot.learnjpaandhibernate.course.jdbc;
+package com.springboot.learnjpaandhibernate.jdbc;
 
 import com.springboot.learnjpaandhibernate.Course;
 import org.springframework.beans.factory.annotation.Autowired;
